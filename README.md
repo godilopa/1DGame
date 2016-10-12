@@ -1,2 +1,2 @@
 # 1DGame
-Game developed for project in software ingineering
+Game developed for project in software engineering
